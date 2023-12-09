@@ -1,2 +1,5 @@
-# 23fall-n320-one
-Assignment One || Course: N320
+##Title:  React Project One
+#Author:  Mikey Lee
+
+v1.0.0
+LINK:
